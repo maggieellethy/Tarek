@@ -21,6 +21,32 @@ command s
 
     
 
+Here is some bash commands to understand GitHub's control full 
 
 
+To get the repo (Tarek), we must use the following command 
+   
+    1. git clone <url name from github.com>
 
+ Get the contents that is inside the repo 
+    
+    1. git fetch 
+        grabs any changes
+    2. git merge 
+        merges any changes into your local computer 
+
+Add any changes into the repo (Tarek)
+
+    1. git status 
+        shows us the files that changed 
+    2. git add .
+        adds all the changes 
+    3. git status 
+        checks if it modfied and became green 
+    4. git commit -m "insert what changes you are doing"
+        this is a message of what you did 
+    5. git push    
+        finally this pushes all the changes 
+
+
+        
