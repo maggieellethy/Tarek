@@ -1,0 +1,26 @@
+bash commands 
+    ls 
+        returns the output of contents in the current directory 
+    cd Desktop 
+        brings you into the Desktop directory
+    mkdir 
+        makes a new directory
+    touch 
+        makes a file 
+    cd ../
+        goes back to the above directory 
+    rm 
+        removes files 
+    rmdir 
+        removes directories 
+
+
+
+command s 
+    to save a file 
+
+    
+
+
+
+
